@@ -128,3 +128,8 @@ SignMeMaybe is part of **ENOWARS 10**, written by the ENOWARS organisers
 (service © Leon Wilms, MIT licence). This repository is my own exploit and
 analysis; the service source is not reproduced here. Original service:
 <https://github.com/enowars/enowars10-service-SignMeMaybe>.
+
+## Licence
+
+My exploit and write-up are released under the MIT licence; see
+[`LICENSE`](LICENSE).
