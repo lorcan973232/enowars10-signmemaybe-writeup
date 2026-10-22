@@ -1,0 +1,10 @@
+# The team's game-farm framework (include/utils and friends) is not mine to publish.
+include/
+# Python environments and caches.
+.venv/
+venv/
+__pycache__/
+*.pyc
+# Any captured PDFs or flag dumps from local testing.
+*.pdf
+flags*.txt
